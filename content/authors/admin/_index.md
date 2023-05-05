@@ -72,7 +72,7 @@ highlight_name: true
 
 APA - Applied Political Anthropologist
 
-Oswaldo is an Interdisciplinary researcher/practitioner. Currently a PhD candidate in Anthropology at the University of Florida (specialization: governance and public policy). He has a background that includes socioeconomic development & environment, sustainable development, and agricultural sciences.
+I am an Interdisciplinary researcher and former government official. My PhD research in Anthropology at the University of Florida draws on my experience in politics to explore environmental governance and policy in Latin America. My background is in socioeconomic development & environment, sustainable development, and agricultural sciences.
 
 
 
