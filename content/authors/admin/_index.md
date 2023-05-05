@@ -14,25 +14,25 @@ organizations:
   url: https://www.ufl.edu
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include governance, bureaucrats, and policy.
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Governance networks
+- Street Level Bureuacrats
+- Policy desing and implementation
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - course: PhD in Anthropology (Governance and Public Policy)
+    institution: University of Florida
+    year: 2023 (expected)
+  - course: Master's degree in Sustainable Development Practice
+    institution: University of Florida
+    year: 2017
+  - course: BSc in Socioeconimic Development and Environment
+    institution: Zamorano University - Panamerican Agricultural School
     year: 2008
 
 # Social/Academic Networking
