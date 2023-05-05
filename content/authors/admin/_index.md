@@ -11,7 +11,7 @@ role: APA - Applied Political Anthropologist
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: University of Florida
-  url: https://www.stanford.edu/
+  url: https://www.ufl.edu
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
