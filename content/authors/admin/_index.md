@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Oswaldo Medina-Ramírez
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: APA - Applied Political Anthropologist
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
+- name: University of Florida
   url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
