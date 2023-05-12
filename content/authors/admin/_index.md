@@ -32,7 +32,7 @@ education:
     institution: University of Florida
     year: 2017
   - course: BSc in Socioeconimic Development and Environment
-    institution: Zamorano University - Panamerican Agricultural School
+    institution: Zamorano Pan-American Agricultural School 
     year: 2008
 
 # Social/Academic Networking
