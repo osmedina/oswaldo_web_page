@@ -18,7 +18,7 @@ bio: My research interests include governance, bureaucrats, and policy.
 
 # Interests to show in About widget
 interests:
-- Policy desing and implementation
+- Public Policy
 - Governance networks
 - Street Level Bureaucrats
 
